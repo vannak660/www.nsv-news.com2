@@ -50,7 +50,7 @@ body {
 .container-fluid > .header
 .container-fluid > .nav > .content, 
 .container-fluid > .container > .content {
-    width: 70%;
+    width: 60%;
 }
 
 .container-fluid > .nav {
